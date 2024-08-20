@@ -12,8 +12,8 @@
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #d371c0;
-  border: 1px solid #d371c0;
+  color: #28a745;
+  border: 1px solid #28a745;
 }
 
 #mainNav .navbar-toggler:focus {
@@ -74,15 +74,15 @@
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #d371c0;
+    color: #28a745;
   }
   #mainNav.navbar-shrink .nav-link:active {
-    color: #904d83;
+    color: #1e7432;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #d371c0;
+    color: #28a745;
     outline: none;
-    border-bottom: 0.25rem solid #d371c0;
+    border-bottom: 0.25rem solid #28a745;
   }
 }
 
@@ -164,20 +164,20 @@
 }
 
 .btn-primary {
-  background-color: #d371c0;
+  background-color: #28a745;
 }
 
 .btn-primary:hover {
-  background-color: #b875ab;
+  background-color: #59c071;
 }
 
 .btn-primary:focus {
-  background-color: #b875ab;
+  background-color: #59c071;
   color: white;
 }
 
 .btn-primary:active {
-  background-color: #904d83 !important;
+  background-color: #1e7432 !important;
 }
 
 .about-section {
@@ -208,11 +208,11 @@
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #d371c0;
+    border-left: 0.5rem solid #28a745;
   }
   .work-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #d371c0;
+    border-left: 0.5rem solid #28a745;
   }
 }
 
@@ -230,14 +230,14 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #d371c0;
+    border-color: #28a745;
     border-width: .25rem;
     width: 30%;
   }
   .work-section .project-text {
   }
   .work-section .project-text hr {
-    border-color: #d371c0;
+    border-color: #28a745;
     border-width: .25rem;
     width: 30%;
   }
@@ -272,7 +272,7 @@
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #d371c0;
+  border-bottom: 0.25rem solid #28a745;
 }
 
 .contact-section .card h4 {
@@ -283,23 +283,23 @@
 }
 
 .contact-section .card hr {
-  border-color: #d371c0;
+  border-color: #28a745;
   border-width: 0.25rem;
   width: 3rem;
 }
 
 .contact-section .social a {
   text-align: center;
-  /* variant of color: #b875ab; */
+  /* variant of color: #59c071; */
 }
 
 .contact-section .social a:hover {
-   /* variant of color: #b875ab; */
+   /* variant of color: #59c071; */
     color: #b474a7;
 }
 
 .contact-section .social a:active {
-   /* variant of color: #b875ab; */
+   /* variant of color: #59c071; */
    color: #97628c;
 }
 
@@ -309,12 +309,12 @@ body {
 }
 
 a {
-  color: #d371c0;
+  color: #28a745;
 }
 
 a:focus, a:hover {
   text-decoration: none;
-  color: #b875ab;
+  color: #59c071;
 }
 
 .bg-black {
@@ -322,11 +322,11 @@ a:focus, a:hover {
 }
 
 .bg-primary {
-  background-color: #d371c0 !important;
+  background-color: #28a745 !important;
 }
 
 .text-primary {
-  color: #d371c0 !important;
+  color: #28a745 !important;
 }
 
 footer {
@@ -343,13 +343,13 @@ footer {
   padding-right: 20px;
 }
 
-/* resume-button has variations of d371c0 */
+/* resume-button has variations of 28a745 */
 #resume-button{
   background-color: transparent;
   border-style: solid;
   display:inline;
   border-radius: 10px;
-  border-color: #d371c0;
+  border-color: #28a745;
   padding:5px;
   height: 88px;
   line-height: 88px;

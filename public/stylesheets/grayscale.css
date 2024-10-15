@@ -108,6 +108,7 @@
   background: -webkit-linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.733));
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
+  background-clip: text;
 }
 
 .masthead h2 {
@@ -234,8 +235,8 @@
     border-width: .25rem;
     width: 30%;
   }
-  .work-section .project-text {
-  }
+  /* .work-section .project-text {
+  } */
   .work-section .project-text hr {
     border-color: #28a745;
     border-width: .25rem;

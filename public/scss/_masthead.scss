@@ -17,6 +17,7 @@
     background: -webkit-linear-gradient(fade-out(white, 0.1), fade-out(white, 1));
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
+    background-clip: text;
   }
   h2 {
     max-width: 35rem;
